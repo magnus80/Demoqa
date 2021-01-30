@@ -1,0 +1,2 @@
+qa/guru/demoqa/DemoqaTest.java
+ qa.guru.demoqa.DemoqaTest
