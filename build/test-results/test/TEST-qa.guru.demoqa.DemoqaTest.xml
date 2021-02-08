@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="qa.guru.demoqa.DemoqaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-30T22:04:38" hostname="DESKTOP-MS890N7" time="1.791">
+<testsuite name="qa.guru.demoqa.DemoqaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-08T19:30:47" hostname="DESKTOP-MS890N7" time="1.851">
   <properties/>
-  <testcase name="ICanFillAndCheckFormTest()" classname="qa.guru.demoqa.DemoqaTest" time="1.791"/>
+  <testcase name="iCanFillAndCheckFormTest()" classname="qa.guru.demoqa.DemoqaTest" time="1.851"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 14 - let's create a new webdriver
-[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Devel\education\QAGuru\Demoqa\build\downloads\1612044274945_13620_14
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Devel\education\QAGuru\Demoqa\build\downloads\1612812643686_16548_14
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
-Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 42711
+Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 14269
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-янв. 31, 2021 1:04:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+февр. 08, 2021 10:30:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO com.codeborne.selenide.webdriver.BrowserResizer - Set browser size to 1366x768
-[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=88.0.4324.104 Platform=WINDOWS
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=88.0.4324.146 Platform=WINDOWS
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.18.0
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
-[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 14: ChromeDriver -> ChromeDriver: chrome on WINDOWS (5ed91f72135ccc9e17a62c625e5ee75f)
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 14: ChromeDriver -> ChromeDriver: chrome on WINDOWS (320afd62cb190cbb13a38088733f4c82)
 ]]></system-err>
 </testsuite>
