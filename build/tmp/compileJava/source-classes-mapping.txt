@@ -1,2 +1,0 @@
-qa/guru/demoqa/Constants.java
- qa.guru.demoqa.Constants

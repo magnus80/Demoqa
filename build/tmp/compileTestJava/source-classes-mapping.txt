@@ -1,4 +1,0 @@
-qa/guru/selenide/SelenideTest.java
- qa.guru.selenide.SelenideTest
-qa/guru/demoqa/DemoqaTest.java
- qa.guru.demoqa.DemoqaTest
